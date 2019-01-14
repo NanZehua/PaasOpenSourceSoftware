@@ -6,7 +6,8 @@
 2. Docker/Moby 
 3. Rkt/AppC、OCI 
 4. CRI-O、CRI-Containerd 
-5. HyperContainer, runV 
+5. HyperContainer, runV
+6. Kata Containers    
 
 ## 集群管理 
 
